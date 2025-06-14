@@ -6,13 +6,6 @@
 - 🌱 Atualmente estou aprendendo IA na Alura
 - ⚡ Curiosidade: faço musculação na Smartfit
 
-<i class="devicon-microsoftsqlserver-plain-wordmark"></i>
-
-<i class="devicon-amazonwebservices-plain-wordmark"></i>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 ## Contatos:
 <div>
